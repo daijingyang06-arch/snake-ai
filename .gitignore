@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 训练模型（体积大，可选择性提交，建议先忽略）
+model/*.pth
+model/*.pt
+
+# 结果图片（如需展示可单独提交到 results/ 并取消下面注释）
+# results/*.png
+
+# IDE / 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
