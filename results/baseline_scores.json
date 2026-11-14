@@ -1,0 +1,24 @@
+{
+  "n_games": 100,
+  "random": {
+    "mean_reward": -9.3,
+    "std_reward": 2.5514701644346145,
+    "mean_food": 0.07,
+    "max_food": 1,
+    "min_food": 0
+  },
+  "greedy": {
+    "mean_reward": 41.3,
+    "std_reward": 68.90072568558331,
+    "mean_food": 5.13,
+    "max_food": 23,
+    "min_food": 0
+  },
+  "dqn": {
+    "mean_reward": 297.4,
+    "std_reward": 109.16611195787821,
+    "mean_food": 30.74,
+    "max_food": 57,
+    "min_food": 9
+  }
+}
